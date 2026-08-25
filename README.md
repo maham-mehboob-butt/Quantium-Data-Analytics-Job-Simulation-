@@ -23,6 +23,14 @@ The project covers:
 
 ---
 
+
+## Certificate
+
+Completed the **Quantium Data Analytics Job Simulation** through Forage.
+
+📜 **[View Certificate](Quantium_Data_Analytics_Job_Simulation_Certificate.pdf)**
+
+
 ## Business Problem
 
 The simulation focused on analyzing customer transaction data for a chips category and using the analysis to support data-driven business decisions.
@@ -182,9 +190,9 @@ This repository provides a portfolio summary of the analysis completed during th
 ```text
 Quantium-Data-Analytics-Job-Simulation/
 │
-├── README.md
+├── Quantium_Certificate
 │
-└── Quantium_Certificate
+└── README.md
 ```
 Original assessment files and confidential materials are not included.
 
