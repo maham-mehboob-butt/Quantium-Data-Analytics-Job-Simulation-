@@ -189,7 +189,9 @@ This repository provides a portfolio summary of the analysis completed during th
 ```text
 Quantium-Data-Analytics-Job-Simulation/
 │
-├── Quantium_Data_Analytics_Job_Simulation_Certificate.pdf
+├── Quantium_Certificate/
+│   └── Quantium_Data_Analytics_Job_Simulation_Certificate.pdf
+│
 └── README.md
 ```
 Original assessment files and confidential materials are not included.
