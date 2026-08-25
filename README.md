@@ -135,6 +135,21 @@ A p-value below 0.05 was treated as evidence of a statistically significant sale
 
 ---
 
+## Analytics & Commercial Application
+
+The analysis was used to translate the analytical findings into practical business insights.
+
+Key commercial applications included:
+
+* Identifying customer segments with higher purchasing value.
+* Understanding differences in purchasing behaviour across customer groups.
+* Evaluating whether trial-store performance improved during the trial period.
+* Using control-store comparisons to measure the impact of the trial.
+* Applying statistical testing to distinguish meaningful changes from random variation.
+* Supporting data-driven recommendations for future store trials and commercial decisions.
+
+---
+
 ## Tools & Technologies
 
 * **Python**
@@ -201,7 +216,7 @@ Sales differences were evaluated using percentage differences and independent t-
 This repository provides a portfolio summary of the analysis completed during the simulation.
 
 ```text
-Quantium-Data-Analytics-Job-Simulation/
+Quantium-Data-Analytics-Job-Simulation-/
 │
 ├── Quantium_Certificate/
 │   └── Quantium_Data_Analytics_Job_Simulation_Certificate.pdf
