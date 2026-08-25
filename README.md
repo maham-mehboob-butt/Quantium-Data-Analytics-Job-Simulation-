@@ -182,9 +182,10 @@ This repository provides a portfolio summary of the analysis completed during th
 ```text
 Quantium-Data-Analytics-Job-Simulation/
 │
-└── README.md
+├── README.md
+│
+└── Quantium_Certificate
 ```
-
 Original assessment files and confidential materials are not included.
 
 ---
