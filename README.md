@@ -4,11 +4,17 @@
 
 ## Project Overview
 
-This project documents my work completed during the Quantium Data Analytics Job Simulation on Forage.
+This project documents my work completed during the **Quantium Data Analytics Job Simulation** on Forage.
 
-The simulation involved analyzing transaction and customer data to identify customer purchasing patterns and evaluate the performance of trial stores using experimentation and uplift testing.
+The simulation involved analyzing transaction and customer data to identify customer purchasing patterns, evaluate trial store performance, and apply experimentation and uplift testing to support data-driven business decisions.
 
-The analysis was completed using Python, with libraries including Pandas, NumPy, and SciPy.
+The analysis was completed using **Python**, with libraries including **Pandas, NumPy, and SciPy**.
+
+The practical tasks completed as part of the simulation included:
+
+* **Data Preparation & Customer Analysis**
+* **Experimentation & Uplift Testing**
+* **Analytics & Commercial Application**
 
 The project covers:
 
@@ -23,12 +29,19 @@ The project covers:
 
 ---
 
-
-## 📜 Certificate
+## Certificate
 
 Completed the **Quantium Data Analytics Job Simulation** through Forage.
 
-**[View Certificate →](./Quantium_Certificate/Quantium_Data_Analytics_Job_Simulation_Certificate.pdf)**
+The certificate confirms completion of the following practical tasks:
+
+* **Data Preparation & Customer Analysis**
+* **Experimentation & Uplift Testing**
+* **Analytics & Commercial Application**
+
+📜 **[View Certificate →](./Quantium_Certificate/Quantium_Data_Analytics_Job_Simulation_Certificate.pdf)**
+
+The certificate is included as evidence of completion.
 
 
 ## Business Problem
@@ -199,13 +212,6 @@ Original assessment files and confidential materials are not included.
 
 ---
 
-## Certificate
-
-Completed the **Quantium Data Analytics Job Simulation** through Forage.
-
-Certificate of completion is available as evidence of participation.
-
----
 
 ## Disclaimer
 
