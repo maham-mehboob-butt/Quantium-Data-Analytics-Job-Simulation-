@@ -24,12 +24,11 @@ The project covers:
 ---
 
 
-## Certificate
+## 📜 Certificate
 
 Completed the **Quantium Data Analytics Job Simulation** through Forage.
 
-📜 **[View Certificate](Quantium_Data_Analytics_Job_Simulation_Certificate.pdf)**
-
+**[View Certificate →](./Quantium_Data_Analytics_Job_Simulation_Certificate.pdf)**
 
 ## Business Problem
 
